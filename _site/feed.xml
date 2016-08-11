@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The So Company</title>
+    <description>A veteran-owned business committed to making government work better.
+</description>
+    <link>http://thesocompany.com/</link>
+    <atom:link href="http://thesocompany.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Aug 2016 18:11:06 -0400</pubDate>
+    <lastBuildDate>Wed, 10 Aug 2016 18:11:06 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Dispatch 07-19-2016</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;small-12 medium-11 medium-centered columns&quot;&gt;
+    &lt;h2 id=&quot;open-data&quot;&gt;Open Data:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;The White House pushed out guidance from the Office of Management and Budget, and the Office of Science and Technology Policy to expand open-data initiatives, reports FCW. The guidance pushes best practices, as well as making 2016 the “most expansive” when it comes to open government.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The National Institutes of Health hopes to use open data to help determine where food-borne epidemics begin, reports Federal News Radio.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;A blogger digging through New York City’s Open Data Portal figured out City Hall had made an $800 million typo, reports Patch.com.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;“Open-source kindness” means using data to help people in altruistic ways, such as helping the homeless find shelter, matching low-income people with mental-health resources or enabling parents to find free child-care programs, reports GovEx.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;The governor of Alaska hopes to use risk-assessment data analytics to determine whom should be released from prison, reports StateScoop.&lt;br /&gt;
+## Open Government:&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Cloud-data company Socrata is shifting from working with all governments to just large governments to try to make itself profitable, and laid off 19 people in the process, reports GeekWire.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;A court ruled the federal government could withhold mugshot from the media in three states, reports The Associated Press.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;San Diego has unveiled a new website filled with government data—and it’s coherent: They included how long it takes the fire department to respond, how many hours city libraries are open, and how many gallons of water are used each day, reports KPBS.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;plain-language&quot;&gt;Plain Language:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Texas hospitals have determined “armed intruder on the fifth floor” may be more helpful than “code blue,” and are replacing alerts with plain-language messages, reports The Dallas Morning News. In a recent incident, a nurse yelled, “Code yellow!” after a father fainted while watching his child being born. The bomb squad soon arrived to address the situation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;iT1 Source is the primary provider of plain-language software for the government, according to a press release.  “The Acrolinx software analyzes and scores content, guides writers to follow Plain Writing Guidelines, and helps them maintain one clear, consistent voice. It also offers robust analytics to provide managers with the critical metrics they need to ensure conformance with the Plain Writing Act and Guidelines.”&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;tech-politics&quot;&gt;Tech Politics:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Several tech gurus, including the co-founder of Slack, chair of Expedia and co-founder of Facebook, have written an open letter to presidential candidate Donald Trump saying, “Trump would be a disaster for innovation.” They argue that diversity is strength, and that open ideas create innovation.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;tech-contracts&quot;&gt;Tech Contracts:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;18F’s ability to hire tech companies quickly through a blanket purchasing agreement has other companies complaining of a lack of transparency, outreach and fairness in contracting gigs, reports Government Technology.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;And government insiders complain 18F’s contracting processes disrupt traditional procedures, reports Government Technology.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;geek-love&quot;&gt;Geek Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;An artist is using data to tell stories in unusual ways, reports KCET.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Scientists are using “animal selfies” (they’re better at it than humans are) to determine the biodiversity of ecosystems, reports PLOS. Open data then allows researchers to determine how best to protect those environments.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;George Orwell believed plain language—and also language that is not “ugly”–could also help politics, and he offered tips on how to avoid tired metaphors, verbal false limbs and pretentious diction. Also, he hated “utilize.” 
+## Vet Love:&lt;/li&gt;
+      &lt;li&gt;Vets are protesting “Orange is the New Black” after the show depicted recently returned combat Vets as inhumane guards in the series, reports The Christian Science Monitor.&lt;/li&gt;
+    &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 19 Jul 2016 16:51:15 -0400</pubDate>
+        <link>http://thesocompany.com/updates/2016/07/19/omdb-guidance.html</link>
+        <guid isPermaLink="true">http://thesocompany.com/updates/2016/07/19/omdb-guidance.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>Dispatch 07-05-2016</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;small-12 medium-11 medium-centered columns&quot;&gt;
+
+    &lt;h2 id=&quot;open-data&quot;&gt;Open Data:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;As government agencies receive poor marks for allowing access to data, but presenting in formats that can’t be used, OpenSource.com offers eight open-source tools to make data presentation better.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Others wonder if libraries might be the best place to house and present open data, writes Chris Moore. This could solve several issues: 1. Librarians could be trained in public data. 2. Libraries could house software programs that would allow people to look at data they might otherwise not be able to see. 3. Libraries need a future.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Wyoming, meanwhile, is trying to figure out how to charge people money to see state data, reports wyofile.com.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Large cities don’t own the market for good open-data programs, reports the Sunlight Foundation. Smaller cities, like Asheville, N.C., and Hartford, Conn., have good programs because they’re centralized, allow private users instant access and insist on clear deadlines for implementation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Medicare will release the cancer-care data set for more than 10 million cases, according to DocGraph, which will manage the data. The data will be open to anyone.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;California has appointed its first chief data officer, Zachary Townsend, reports Government Technology.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;plain-language&quot;&gt;Plain Language:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Minnesota is on a plain-language crusade, and the governor’s office released a video portraying two buddies watching a baseball game. One speaks like a normal human, and one speaks like an email from a bureaucrat.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;A plain language forum on LinkedIn, PLAIN, has just been taken over by Plain Language International (@PLAIN_Lang_Intl), a volunteer group of plain-language advocates.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;geek-love&quot;&gt;Geek Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Conspiracy theorists hope presidential nominee Hillary Clinton will, if she becomes president, continue the open-data push and release the X-Files, reports NBC News.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Ten technology trends are hitting the workforce, including “open any data,” the “Internet of things,” and “software-defined architecture,” reports memeburn.com.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;vet-love&quot;&gt;Vet Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A Virginian-Pilot photographer, known for his coverage of the effects of Agent Orange on people in Vietnam, recently learned his own health problems might be related to his estranged father’s spraying of the chemical during the war, the Virginian-Pilot reports.
+## Geek Jobs:&lt;/li&gt;
+      &lt;li&gt;Betah Associates seeks a part-time writer to explain the new national dietary guidelines in plain language.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;telework-love&quot;&gt;Telework Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Slack has a video that shows how to cut back on the number of notifications you receive.&lt;/li&gt;
+    &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 05 Jul 2016 16:51:15 -0400</pubDate>
+        <link>http://thesocompany.com/updates/2016/07/05/opensource-tools.html</link>
+        <guid isPermaLink="true">http://thesocompany.com/updates/2016/07/05/opensource-tools.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>Dispatch 06-20-2016</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;small-12 medium-11 medium-centered columns&quot;&gt;
+    &lt;h2 id=&quot;open-data&quot;&gt;Open Data:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Chicago’s chief data officer said the city uses big data to find pot holes, determine salaries and determine how often a bus should run with its Open Data Portal, reports Kellogg Insight. More than 1,000 raw data sets are available online.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;And at the “Smart Cities Innovation Summit,” city managers say they can use similar data to fight inequality and encourage citizens to engage, reports statescoop.com. They say their biggest concern is making the data manageable and understandable to as many people as possible.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Union of Concerned Scientists better explains the new FOIA Improvement Act, which emphasizes the need for governments to put their data online and to “err on the side of disclosure” unless there is “foreseeable harm” or a legal violation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The IRS will release information on tax-exempt organizations in XML format, reports FCW. Expect that to play big in the upcoming election—if journalists can get to it. It appears the IRS will transfer easily searchable data into images.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Two George Mason professors gave 60 percent of the files on Data.gov a one-star rating because they are too difficult for people to use, reports fedscoop.com.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Sunlight Foundation has created a checklist to ensure open-government programs don’t run into these problems.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Commerce Department hopes to partner with an outside company to come up with ways to use federal data in business—and then split the profits of any products that come out of the partnership, reports Nextgov.com.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Bloomberg Philanthropies has awarded What Works Cities Initiative grants to 12 cities (including Baltimore and Buffalo) to push them toward open government, which could open up opportunities for helping make sure that data is worthwhile. Bloomberg also just released evidence-based practices after determining most cities don’t have the resources they need to make data work well.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;plain-language&quot;&gt;Plain Language:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;The second step in plain-language writing is to organize, writes GovDelivery.com. This blog recognizes that plain language isn’t just a rewrite: It’s a thoughtful process that involves planning, organizing, writing, editing and reviewing as basic steps.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;This appears to be new: The IRS has invited people to tell its webmaster if any IRS pages are not written in plain language. 
+## Case studies:&lt;/li&gt;
+      &lt;li&gt;This case study looks at the need for plain language for the UK’s Department for Work &amp;amp; Pensions, but even better, it talks about strategic reading and how we can help guide lower-ability readers through a document. It also makes the case that if you have a clear letter, you get fewer phone calls, which saves time and money.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;telework-love&quot;&gt;Telework Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Multi-tasking is inefficient because workers switch from task to task without the feeling of accomplishment that accompanies completing one things, and because it takes time to make each cognitive shift, argues Larry Kim in Medium. And a recent study shows that multi-tasking can cause workers’ IQs to drop. It’s worse for men.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;In the same vein, Medium’s James Clear goes to the original productivity expert—we’re talking 1918—to give you exactly the same advice every productivity book does now: Make a list. Follow it. Keep it short. 
+## Geek Jobs:&lt;/li&gt;
+      &lt;li&gt;Director, office of government information services, National Archives&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 20 Jun 2016 16:51:15 -0400</pubDate>
+        <link>http://thesocompany.com/updates/2016/06/20/chicago-streets.html</link>
+        <guid isPermaLink="true">http://thesocompany.com/updates/2016/06/20/chicago-streets.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>Dispatch 06-13-2016</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;small-12 medium-11 medium-centered columns&quot;&gt;
+    &lt;h2 id=&quot;open-data&quot;&gt;Open Data:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;A state in India has proclaimed itself the first in India to have an open-government data portal, reports ET Telecom.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;In October, the U.S. government decided to post House spending data in a spreadsheet format, rather than PDF, so it’s usable. And, a new law would require all federal agencies to publish their information in an easy, searchable format, reports Communities Digital News.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Philippines’ President Benigno Aquino III’s failure to pass a FOI law after promising one is seen as one of his biggest failures, reports Rappler.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The founder of Open Data Nation, Carey Anne Nadeau, lists the best practices for public-sector chief data officers at Openddatacon.org.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;A study in England shows that research that does not confirm the government’s policies tends to go missing, and the authors advocate for a wiki that would track that research, reports UKAuthority.com.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The data revolution in the humanitarian field is picking up, reports Elizabeth Dickinson for Devex.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Vice President Joe Biden continues to push for big data as a way to combat cancer, reports Kenneth Corbin for CIO.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Open Government Partnership is hiring a Web Content Curator.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;London will send Twitter alerts to instantly let customers know when there are delays on the underground, reports Mass Transit Magazine.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Open government and data are important, but how they are delivered is equally so, reports Hugo Moreno for Forbes.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The International Journalists’ Network reports that open data, including from drones, is helping expose government corruption around the world.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;plain-language&quot;&gt;Plain Language:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Jon Westenberg makes the case that simple language isn’t easy, and it’s not cheap. “Make it simple. Cut the crap. Remove the frills. Let your meaning shine through.”&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Daniel Rodic, co-founder of Exact Media, writes about the importance of reading, writing every day and writing in plain language—as well as the work that goes into it. He cites leaders in the tech industry, such as Bill Gates, who have made the written word part of their success stories. 
+## Case studies:&lt;/li&gt;
+      &lt;li&gt;Of interest: The government’s guide to plain-language writing.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;organizations-websites-and-twitter-accounts-of-interest&quot;&gt;Organizations, websites and twitter accounts of interest:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Canadian government has an open-maps project to share geospatial information. @TBS_Canada #OpenGovCan&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Whitney Quesenbery at the Center for Civic Design @whitneyq&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Plainlanguage.gov @govplainlang&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;geek-love&quot;&gt;Geek Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Tony Zhou writes about the art of editing a joke, using the new Ghostbusters as an example.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Jennifer Aldrich writes about how being a woman in the tech industry has changed and how it needs to continue to change.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;vet-love&quot;&gt;Vet Love:&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;In New York Times Magazine, Robert F. Worth writes in-depth about why PTS may be more physical than psychological.&lt;/li&gt;
+    &lt;/ul&gt;
+
+  &lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Jun 2016 16:51:15 -0400</pubDate>
+        <link>http://thesocompany.com/updates/2016/06/13/indian-open-data.html</link>
+        <guid isPermaLink="true">http://thesocompany.com/updates/2016/06/13/indian-open-data.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>Dispatch 06-07-2016</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;small-12 medium-11 medium-centered columns&quot;&gt;
+
+    &lt;h2 id=&quot;open-data&quot;&gt;Open Data:&lt;/h2&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Sen. Mark Warner, D-Virginia, says he’s working on an inventory of government agencies to make sure the Digital Accountability and Transparency Act doesn’t get lost during the election, reports Federal News Radio. He’s been sending notes to agencies asking for progress reports. Warner says it’s good for entrepreneurs.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;NYU Tandon’s Gov Lab is looking at how companies are using the data released by the U.S. federal government, reports Technical.ly. No one yet understands the impact, and companies are still working out best practices.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Europeiska Data Portalen released its first report, “Digital Transformation and Open Data.” They looked at 600 use cases from the private sector from around the world, focusing on how open data Is re-used and who is re-using it.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The IT sector is most likely to re-use data, followed by the public sector.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;“Enrichers” were most likely to use the data at about 50 percent—these are organizations who want to gain better or new insights for services or products for their customers.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;“Enablers” rarely used it, at about 3 percent. Enablers provide platforms and tech other companies can use.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;“Developers,” or people who analyze data and create services and products, make up about 18 percent of users.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;People didn’t use it because they didn’t know about it, didn’t know how, didn’t know if they were allowed to, were limited by the data quality, had internal IT issues, or had licensing problems.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The group recommended that governments publish open data, apply the “open by default” principle, , use an appropririate open license, and search for interaction with re-users.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The recommended the private sector use open data as a resource today, use data from any sector rather than one’s own, choose an integral strategy for digital transformation, and start small.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;They also list out benefits of open data, such as job stimulation, efficiency gains and social welfare improvement.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;June 4 was the National Day of Civic Hacking, and the White House, as well as several federal agencies, encouraged 100 U.S. cities to open up information to allow citizens to try to solve problems, Government Technology reports. Hackers worked to make it easier to apply for food stamps, apply for affordable housing and combat Zika, as well as other problem areas identified by the government.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Royal Dutch Shell became the first U.K.-incorporated oil, gas or mining company to report on its payments to governments as required by the United Kingdom’s new transparent reporting process, reports Publish What You Pay. They paid out about $22 billion, including about $1.4 billion to Iraq. The United States and United Kingdom paid Shell.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;China is also interested in open data, at least for science, reports Godan. More than 100 scientists participated in a “Knowledge Management and Open Data” conference.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Amsterdam’s Smart City initiative takes Open Data and applies it to everything from figuring out how many bike lanes commuters need to enabling trash trucks to make fewer trips, MIT Sloan reports. To make it work, cities using similar initiatives need chief technology officers, citizen input, expectation management and pilot programs.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Thirteen Illinois Health and Human Services agencies have agreed to share their data, reports Socrata.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Open Data has made its way into the presidential election as Donald Trump is not interested in using data and analytics in his campaign, reports The Hill. Trump has said data is “overrated.” Hillary Clinton has an in-house data team and is also contracting out to a start-up. Bernie Sanders’ campaign exists because of analytics.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Pennsylvania’s Department of Transportation has released road and bridge data to the public, reports Equipment World.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;An open-data initiative has led to the discovery of genetic variants connected to breast and ovarian cancer one year after the initiative was begun, reports PR NewsWire.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;plain-language&quot;&gt;Plain Language:&lt;/h2&gt;
+
+    &lt;h3 id=&quot;case-studies&quot;&gt;Case studies:&lt;/h3&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;In 2010, the IRS realized that one-quarter of people being audited didn’t realize they were being audited because the letters IRS sent out confused them. Most people did not know the meaning of the word “levy.” The IRS decided to rewrite all of their letters. Then, they created a new office to do just that.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;organizations-websites-and-twitter-accounts-of-interest&quot;&gt;Organizations, websites and twitter accounts of interest:&lt;/h2&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Open Data Institute provides evidence about how open data is doing, online and in-person courses, events and networking. They’re British. @ODIHQ&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;18F is an office within the General Services Administration that helps federal agencies with digital services as part of the President’s open-data directive. @18F (Twitter feed is everything from agile content to contracts awarded.)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Center for Plain Language, which also sponsors the ClearMark Awards for plain-written language. @plain_language&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 07 Jun 2016 16:51:15 -0400</pubDate>
+        <link>http://thesocompany.com/updates/2016/06/07/first-newsletter.html</link>
+        <guid isPermaLink="true">http://thesocompany.com/updates/2016/06/07/first-newsletter.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+  </channel>
+</rss>
